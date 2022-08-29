@@ -1,2 +1,2 @@
-# promise
- promise封装
+# Promise
+ Promise封装
